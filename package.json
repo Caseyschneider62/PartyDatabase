@@ -1,0 +1,23 @@
+{
+  "name": "partydatabase",
+  "version": "1.0.0",
+  "description": "people tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caseyschneider62/PartyDatabase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caseyschneider62/PartyDatabase/issues"
+  },
+  "homepage": "https://github.com/Caseyschneider62/PartyDatabase#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
